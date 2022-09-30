@@ -22,4 +22,4 @@
 [instagram]: https://www.instagram.com/cenkaydurmus
 [medium]: https://medium.com/@cenkaydurmus
 [email]: mailto:durmuscenkay@gmail.com
-[youtube]:
+[youtube]:https://www.youtube.com/channel/UCWHw2_MvtAP8_rW-f-Shwbg
