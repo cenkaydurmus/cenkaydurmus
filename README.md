@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cenkay @cenkay-durmus
+- 👋 Hi, I’m Cenkay @cenkaydurmus
 - 👀 I’m interested in Web Development
 - 🌱 I’m a Front-End Web Developer.
 - 📫 How to reach me durmuscenkay@gmail.com
