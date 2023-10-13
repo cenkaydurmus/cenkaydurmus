@@ -5,7 +5,7 @@
 - 
 
 ### Connect With Me
-[<img align="left" alt="Mail" width="28px" src="http://unyecicekcilik.com/image/data/HESAP%20NO/4cbMAkXXi.png" />][email]
+
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Instagram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="Youtube" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
