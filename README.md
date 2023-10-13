@@ -21,5 +21,5 @@
 [github]: https://github.com/cenkaydurmus
 [instagram]: https://www.instagram.com/cenkaydurmus
 [medium]: https://medium.com/@cenkaydurmus
-[email]: mailto:durmuscenkay@gmail.com
+
 [youtube]:https://www.youtube.com/channel/UCWHw2_MvtAP8_rW-f-Shwbg
