@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kampuskod.com/wp-content/uploads/2020/12/frontend-teknolojileri.png)
+[![MasterHead(https://www.kampuskod.com/wp-content/uploads/2020/12/frontend-teknolojileri.png)
 
 <h1 align="center">Hi 👋, I'm Cenkay Durmuş</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
