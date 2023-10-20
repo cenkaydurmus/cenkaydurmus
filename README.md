@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **durmuscenkay@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/cenkaydurmus/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/cenkaydurmus?theme=unicorn)](https://leetcode.com/cenkaydurmus/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
